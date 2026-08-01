@@ -1,6 +1,7 @@
 import flet as ft
 import sqlite3
 from datetime import datetime
+import os
 
 # ---------------------------------------------------------------------------
 # Paleta de cores - baseada no documento "Paleta de Cores - Rachaki"
